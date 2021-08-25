@@ -1,0 +1,7 @@
+Steve 70
+Jane 75
+Jacob 76
+John 60
+Tom 70
+Candy 95
+Bill 89

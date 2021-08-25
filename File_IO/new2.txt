@@ -1,0 +1,3 @@
+Best avg. score: Candy
+Best score1: Steve
+Best score improvement: Bill
